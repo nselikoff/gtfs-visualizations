@@ -1,0 +1,4 @@
+fare_id,price,currency_type,payment_method,transfers,transfer_duration
+EXPRESS,3.50,USD,0,0,
+FREE,0.00,USD,0,0,
+STD,2.00,USD,0,1,5400
