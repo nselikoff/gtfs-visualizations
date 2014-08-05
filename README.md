@@ -1,6 +1,6 @@
 # GTFS Visualizations
 
-*This fork of @cmichi's gtfs-visualizations project has been modified to include LYNX, the regional bus system for Orlando and surrounding cities of Central Florida.*
+*This fork of [@cmichi's gtfs-visualizations project](https://github.com/cmichi/gtfs-visualizations) has been modified to include LYNX, the regional bus system for Orlando and surrounding cities of Central Florida.*
 
 The idea of this project is to generate beautiful and informative
 visualizations from publicly available GTFS datasets. By this I 
